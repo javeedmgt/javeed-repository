@@ -1,0 +1,298 @@
+[2024-08-02T14:04:46.176203+00:00] main.INFO: Source table payment_services_order_status_data_production_submitted_hash does not exist. Skipping data migration... [] []
+[2024-08-02T14:05:11.652434+00:00] main.ERROR: There are no commands defined in the "cron" namespace.
+#0 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/vendor/symfony/console/Application.php(720): Symfony\Component\Console\Application->findNamespace()
+#1 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/vendor/symfony/console/Application.php(266): Symfony\Component\Console\Application->find()
+#2 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun()
+#3 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun()
+#4 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-08-02T14:07:49.932293+00:00] main.ERROR: Sample Data error: Warning: file_get_contents(/home/cloudpanel/htdocs/javeed.mgtcommerce.com/pub/media/downloadable/files/links/l/u/luma_background_-_model_against_fence_4_sec_.mp4): Failed to open stream: No such file or directory in /home/cloudpanel/htdocs/javeed.mgtcommerce.com/vendor/magento/module-downloadable-sample-data/Model/Product/Converter.php on line 132 [] []
+[2024-08-02T14:12:21.258791+00:00] main.ERROR: NOTE: Manual static content deployment is not required in "default" and "developer" modes.
+In "default" and "developer" modes static contents are being deployed automatically on demand.
+If you still want to deploy in these modes, use -f option: 'bin/magento setup:static-content:deploy -f'
+#0 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/setup/src/Magento/Setup/Console/Command/DeployStaticContentCommand.php(112): Magento\Setup\Console\Command\DeployStaticContentCommand->checkAppMode()
+#1 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/vendor/symfony/console/Command/Command.php(326): Magento\Setup\Console\Command\DeployStaticContentCommand->execute()
+#2 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run()
+#3 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand()
+#4 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun()
+#5 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun()
+#6 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento(23): Symfony\Component\Console\Application->run()
+#7 {main} [] []
+[2024-08-02T14:18:03.044215+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+graphql_query_resolver_result
+full_page
+config_webservice
+translate [] []
+[2024-08-02T14:19:35.481665+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento setup:di:compile 2>&1
+Compilation was started.
+%message% 0/9 [>---------------------------]   0% < 1 sec 70.0 MiBProxies code generation... 0/9 [>---------------------------]   0% < 1 sec 70.0 MiB
+Proxies code generation... 1/9 [===>------------------------]  11% 1 sec 72.0 MiB
+Repositories code generation... 1/9 [===>------------------------]  11% 1 sec 72.0 MiB
+Repositories code generation... 2/9 [======>---------------------]  22% 22 secs 110.0 MiB
+Service data attributes generation... 2/9 [======>--------------------]  22% 22 secs 110.0 MiB
+Service data attributes generation... 3/9 [=========>-----------------]  33% 22 secs 110.0 MiB
+Application code generator... 3/9 [=========>-----------------]  33% 22 secs 110.0 MiB
+Application code generator... 4/9 [============>--------------]  44% 37 secs 122.0 MiB
+Interceptors generation... 4/9 [============>--------------]  44% 37 secs 122.0 MiB
+Interceptors generation... 5/9 [===============>-----------]  55% 1 min 158.0 MiB
+Area configuration aggregation... 5/9 [===============>-----------]  55% 1 min 158.0 MiB
+Area configuration aggregation... 6/9 [================>--------]  66% 1 min, 7 secs 264.0 MiB
+Interception cache generation... 6/9 [================>--------]  66% 1 min, 7 secs 264.0 MiB
+Interception cache generation... 7/9 [===================>-----]  77% 1 min, 15 secs 262.0 MiB
+App action list generation... 7/9 [===================>-----]  77% 1 min, 15 secs 262.0 MiB
+Plugin list generation... 8/9 [======================>--]  88% 1 min, 15 secs 262.0 MiB
+Plugin list generation... 9/9 [=========================] 100% 1 min, 18 secs 262.0 MiB
+Generated code and dependency injection configuration successfully. [] []
+[2024-08-02T14:19:37.017964+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+graphql_query_resolver_result
+full_page
+config_webservice
+translate [] []
+[2024-08-02T14:21:04.453566+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+graphql_query_resolver_result
+full_page
+config_webservice
+translate [] []
+[2024-08-02T14:22:26.896014+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento setup:di:compile 2>&1
+Compilation was started.
+%message% 0/9 [>---------------------------]   0% < 1 sec 80.0 MiBProxies code generation... 0/9 [>---------------------------]   0% < 1 sec 80.0 MiB
+Proxies code generation... 1/9 [===>------------------------]  11% < 1 sec 82.0 MiB
+Repositories code generation... 1/9 [===>------------------------]  11% < 1 sec 82.0 MiB
+Repositories code generation... 2/9 [======>---------------------]  22% 21 secs 118.0 MiB
+Service data attributes generation... 2/9 [======>--------------------]  22% 21 secs 118.0 MiB
+Service data attributes generation... 3/9 [=========>-----------------]  33% 21 secs 118.0 MiB
+Application code generator... 3/9 [=========>-----------------]  33% 21 secs 118.0 MiB
+Application code generator... 4/9 [============>--------------]  44% 37 secs 132.0 MiB
+Interceptors generation... 4/9 [============>--------------]  44% 37 secs 132.0 MiB
+Interceptors generation... 5/9 [===============>-----------]  55% 55 secs 166.0 MiB
+Area configuration aggregation... 5/9 [===============>-----------]  55% 55 secs 166.0 MiB
+Area configuration aggregation... 6/9 [================>--------]  66% 1 min, 3 secs 276.0 MiB
+Interception cache generation... 6/9 [================>--------]  66% 1 min, 3 secs 276.0 MiB
+Interception cache generation... 7/9 [===================>-----]  77% 1 min, 11 secs 274.0 MiB
+App action list generation... 7/9 [===================>-----]  77% 1 min, 11 secs 274.0 MiB
+Plugin list generation... 8/9 [======================>--]  88% 1 min, 11 secs 274.0 MiB
+Plugin list generation... 9/9 [=========================] 100% 1 min, 13 secs 274.0 MiB
+Generated code and dependency injection configuration successfully. [] []
+[2024-08-02T14:22:28.660182+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+graphql_query_resolver_result
+full_page
+config_webservice
+translate [] []
+[2024-08-02T14:22:57.289581+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento setup:static-content:deploy -f en_US 2>&1
+
+Deploy using quick strategy
+frontend/Magento/blank/en_US            0/2267              >--------------------------- 0%     < 1 sec
+[1A[2Kfrontend/Magento/blank/en_US            470/2267            =====>---------------------- 20%    1 sec
+[1A[2Kfrontend/Magento/blank/en_US            1052/2267           ============>--------------- 46%    2 secs
+[1A[2Kfrontend/Magento/blank/en_US            1958/2267           ========================>--- 86%    3 secs
+[1A[2Kfrontend/Magento/blank/en_US            2186/2267           ==========================>- 96%    4 secs
+[1A[2Kfrontend/Magento/blank/en_US            2188/2267           ===========================> 96%    6 secs
+[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         108/2879            =>-------------------------- 3%     1 sec
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         1032/2879           ==========>----------------- 35%    2 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         1993/2879           ===================>-------- 69%    3 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2728/2879           ==========================>- 94%    7 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2729/2879           ==========================>- 94%    8 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             213/2283            ==>------------------------- 9%     1 sec
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             1246/2283           ===============>------------ 54%    2 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2185/2283           ==========================>- 95%    3 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2187/2283           ==========================>- 95%    4 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2188/2283           ==========================>- 95%    6 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2217/2283           ===========================> 97%    7 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2283/2283           ============================ 100%   7 secs
+
+Execution time: 25.911473989487 [] []
+[2024-08-02T14:23:25.184155+00:00] main.INFO: crontab -l 2>/dev/null 2>&1
+
+#~ MAGENTO START b2f9c9cde774de6d0fb475fe02bd270335021917a9542e34f6729b5d226a47a7
+* * * * * /usr/bin/php8.3 /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento cron:run 2>&1 | grep -v "Ran jobs by schedule" >> /home/cloudpanel/htdocs/javeed.mgtcommerce.com/var/log/magento.cron.log
+#~ MAGENTO END b2f9c9cde774de6d0fb475fe02bd270335021917a9542e34f6729b5d226a47a7
+ [] []
+[2024-08-02T14:24:57.118863+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+graphql_query_resolver_result
+full_page
+config_webservice
+translate [] []
+[2024-08-02T14:25:07.431886+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.431903+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.431841+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.431920+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.431937+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.431953+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.438090+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.438459+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.438717+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.439017+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.440314+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.440702+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.443781+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:07.461940+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:25.172381+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:25.176503+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:25.172705+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:25.177063+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:25.175903+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:25.177803+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:25.277648+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:25.277921+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:25.830448+00:00] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:25:25.830709+00:00] main.CRITICAL: Unable to proceed: the maintenance mode is enabled.  [] []
+[2024-08-02T14:26:23.477749+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento setup:di:compile 2>&1
+Compilation was started.
+%message% 0/9 [>---------------------------]   0% < 1 sec 70.0 MiBProxies code generation... 0/9 [>---------------------------]   0% < 1 sec 70.0 MiB
+Proxies code generation... 1/9 [===>------------------------]  11% 1 sec 72.0 MiB
+Repositories code generation... 1/9 [===>------------------------]  11% 1 sec 72.0 MiB
+Repositories code generation... 2/9 [======>---------------------]  22% 22 secs 110.0 MiB
+Service data attributes generation... 2/9 [======>--------------------]  22% 22 secs 110.0 MiB
+Service data attributes generation... 3/9 [=========>-----------------]  33% 22 secs 110.0 MiB
+Application code generator... 3/9 [=========>-----------------]  33% 22 secs 110.0 MiB
+Application code generator... 4/9 [============>--------------]  44% 38 secs 126.0 MiB
+Interceptors generation... 4/9 [============>--------------]  44% 38 secs 126.0 MiB
+Interceptors generation... 5/9 [===============>-----------]  55% 55 secs 158.0 MiB
+Area configuration aggregation... 5/9 [===============>-----------]  55% 55 secs 158.0 MiB
+Area configuration aggregation... 6/9 [================>--------]  66% 1 min, 3 secs 266.0 MiB
+Interception cache generation... 6/9 [================>--------]  66% 1 min, 3 secs 266.0 MiB
+Interception cache generation... 7/9 [===================>-----]  77% 1 min, 11 secs 264.0 MiB
+App action list generation... 7/9 [===================>-----]  77% 1 min, 11 secs 264.0 MiB
+Plugin list generation... 8/9 [======================>--]  88% 1 min, 11 secs 264.0 MiB
+Plugin list generation... 9/9 [=========================] 100% 1 min, 14 secs 264.0 MiB
+Generated code and dependency injection configuration successfully. [] []
+[2024-08-02T14:26:24.857172+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+graphql_query_resolver_result
+full_page
+config_webservice
+translate [] []
+[2024-08-02T14:26:52.540896+00:00] main.INFO: /usr/bin/php8.3 -f /home/cloudpanel/htdocs/javeed.mgtcommerce.com/bin/magento setup:static-content:deploy -f en_US 2>&1
+
+Deploy using quick strategy
+frontend/Magento/blank/en_US            0/2267              >--------------------------- 0%     < 1 sec
+[1A[2Kfrontend/Magento/blank/en_US            466/2267            =====>---------------------- 20%    1 sec
+[1A[2Kfrontend/Magento/blank/en_US            1086/2267           =============>-------------- 47%    2 secs
+[1A[2Kfrontend/Magento/blank/en_US            1967/2267           ========================>--- 86%    3 secs
+[1A[2Kfrontend/Magento/blank/en_US            2186/2267           ==========================>- 96%    4 secs
+[1A[2Kfrontend/Magento/blank/en_US            2188/2267           ===========================> 96%    6 secs
+[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         134/2879            =>-------------------------- 4%     1 sec
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         1083/2879           ==========>----------------- 37%    2 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2045/2879           ===================>-------- 71%    3 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2728/2879           ==========================>- 94%    7 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2729/2879           ==========================>- 94%    8 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             238/2283            ==>------------------------- 10%    1 sec
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             1258/2283           ===============>------------ 55%    2 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2185/2283           ==========================>- 95%    3 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2186/2283           ==========================>- 95%    4 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2188/2283           ==========================>- 95%    6 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2189/2283           ==========================>- 95%    7 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2267/2267           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2879/2879           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2283/2283           ============================ 100%   7 secs
+
+Execution time: 25.50839304924 [] []
+[2024-08-02T15:00:04.164906+00:00] main.INFO: Request token lh01yg2pweig3t5igcgczn0921m1ut70 was exchanged to obtain access token for consumer 1 [] []
+[2024-08-02T15:00:04.549349+00:00] main.WARNING: Subscription for MBI service has been failed. An error occurred during token exchange: {"message":"We are unable to connect to your store."}. Content-Type: application/json; charset=UTF-8 [] []
