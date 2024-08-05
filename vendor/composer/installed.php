@@ -3,7 +3,7 @@
         'name' => 'magento/project-community-edition',
         'pretty_version' => '2.4.7-p1',
         'version' => '2.4.7.0-patch1',
-        'reference' => null,
+        'reference' => NULL,
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,18 +22,18 @@
         'adobe-commerce/adobe-ims-metapackage' => array(
             'pretty_version' => '2.2.2',
             'version' => '2.2.2.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'metapackage',
-            'install_path' => null,
+            'install_path' => NULL,
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'adobe-commerce/os-extensions-metapackage' => array(
             'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'metapackage',
-            'install_path' => null,
+            'install_path' => NULL,
             'aliases' => array(),
             'dev_requirement' => false,
         ),
@@ -910,16 +910,16 @@
         'magento/adobe-stock-integration' => array(
             'pretty_version' => '2.1.6-p1',
             'version' => '2.1.6.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'metapackage',
-            'install_path' => null,
+            'install_path' => NULL,
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'magento/composer' => array(
             'pretty_version' => '1.10.0',
             'version' => '1.10.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'library',
             'install_path' => __DIR__ . '/../magento/composer',
             'aliases' => array(),
@@ -928,7 +928,7 @@
         'magento/composer-dependency-version-audit-plugin' => array(
             'pretty_version' => '0.1.5',
             'version' => '0.1.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/../magento/composer-dependency-version-audit-plugin',
             'aliases' => array(),
@@ -937,7 +937,7 @@
         'magento/composer-root-update-plugin' => array(
             'pretty_version' => '2.0.4',
             'version' => '2.0.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/../magento/composer-root-update-plugin',
             'aliases' => array(),
@@ -946,7 +946,7 @@
         'magento/framework' => array(
             'pretty_version' => '103.0.7-p1',
             'version' => '103.0.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-library',
             'install_path' => __DIR__ . '/../magento/framework',
             'aliases' => array(),
@@ -955,7 +955,7 @@
         'magento/framework-amqp' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-library',
             'install_path' => __DIR__ . '/../magento/framework-amqp',
             'aliases' => array(),
@@ -964,7 +964,7 @@
         'magento/framework-bulk' => array(
             'pretty_version' => '101.0.3',
             'version' => '101.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-library',
             'install_path' => __DIR__ . '/../magento/framework-bulk',
             'aliases' => array(),
@@ -973,7 +973,7 @@
         'magento/framework-message-queue' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-library',
             'install_path' => __DIR__ . '/../magento/framework-message-queue',
             'aliases' => array(),
@@ -982,7 +982,7 @@
         'magento/inventory-composer-installer' => array(
             'pretty_version' => '1.2.0',
             'version' => '1.2.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/../magento/inventory-composer-installer',
             'aliases' => array(),
@@ -991,16 +991,16 @@
         'magento/inventory-metapackage' => array(
             'pretty_version' => '1.2.7-p1',
             'version' => '1.2.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'metapackage',
-            'install_path' => null,
+            'install_path' => NULL,
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'magento/language-de_de' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-language',
             'install_path' => __DIR__ . '/../magento/language-de_de',
             'aliases' => array(),
@@ -1009,7 +1009,7 @@
         'magento/language-en_us' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-language',
             'install_path' => __DIR__ . '/../magento/language-en_us',
             'aliases' => array(),
@@ -1018,7 +1018,7 @@
         'magento/language-es_es' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-language',
             'install_path' => __DIR__ . '/../magento/language-es_es',
             'aliases' => array(),
@@ -1027,7 +1027,7 @@
         'magento/language-fr_fr' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-language',
             'install_path' => __DIR__ . '/../magento/language-fr_fr',
             'aliases' => array(),
@@ -1036,7 +1036,7 @@
         'magento/language-nl_nl' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-language',
             'install_path' => __DIR__ . '/../magento/language-nl_nl',
             'aliases' => array(),
@@ -1045,7 +1045,7 @@
         'magento/language-pt_br' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-language',
             'install_path' => __DIR__ . '/../magento/language-pt_br',
             'aliases' => array(),
@@ -1054,7 +1054,7 @@
         'magento/language-zh_hans_cn' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-language',
             'install_path' => __DIR__ . '/../magento/language-zh_hans_cn',
             'aliases' => array(),
@@ -1081,7 +1081,7 @@
         'magento/magento2-base' => array(
             'pretty_version' => '2.4.7-p1',
             'version' => '2.4.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-component',
             'install_path' => __DIR__ . '/../magento/magento2-base',
             'aliases' => array(),
@@ -1099,7 +1099,7 @@
         'magento/module-admin-adobe-ims' => array(
             'pretty_version' => '100.5.2',
             'version' => '100.5.2.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-admin-adobe-ims',
             'aliases' => array(),
@@ -1108,7 +1108,7 @@
         'magento/module-admin-adobe-ims-two-factor-auth' => array(
             'pretty_version' => '1.0.1',
             'version' => '1.0.1.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-admin-adobe-ims-two-factor-auth',
             'aliases' => array(),
@@ -1117,7 +1117,7 @@
         'magento/module-admin-analytics' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-admin-analytics',
             'aliases' => array(),
@@ -1126,7 +1126,7 @@
         'magento/module-admin-graph-ql-server' => array(
             'pretty_version' => '1.0.3',
             'version' => '1.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-admin-graph-ql-server',
             'aliases' => array(),
@@ -1135,7 +1135,7 @@
         'magento/module-admin-notification' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-admin-notification',
             'aliases' => array(),
@@ -1144,7 +1144,7 @@
         'magento/module-adobe-ims' => array(
             'pretty_version' => '2.2.1',
             'version' => '2.2.1.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-adobe-ims',
             'aliases' => array(),
@@ -1153,7 +1153,7 @@
         'magento/module-adobe-ims-api' => array(
             'pretty_version' => '2.2.1',
             'version' => '2.2.1.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-adobe-ims-api',
             'aliases' => array(),
@@ -1162,7 +1162,7 @@
         'magento/module-adobe-stock-admin-ui' => array(
             'pretty_version' => '1.3.4',
             'version' => '1.3.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-adobe-stock-admin-ui',
             'aliases' => array(),
@@ -1171,7 +1171,7 @@
         'magento/module-adobe-stock-asset' => array(
             'pretty_version' => '1.3.3',
             'version' => '1.3.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-adobe-stock-asset',
             'aliases' => array(),
@@ -1180,7 +1180,7 @@
         'magento/module-adobe-stock-asset-api' => array(
             'pretty_version' => '2.0.3',
             'version' => '2.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-adobe-stock-asset-api',
             'aliases' => array(),
@@ -1189,7 +1189,7 @@
         'magento/module-adobe-stock-client' => array(
             'pretty_version' => '1.3.4',
             'version' => '1.3.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-adobe-stock-client',
             'aliases' => array(),
@@ -1198,7 +1198,7 @@
         'magento/module-adobe-stock-client-api' => array(
             'pretty_version' => '2.1.4',
             'version' => '2.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-adobe-stock-client-api',
             'aliases' => array(),
@@ -1207,7 +1207,7 @@
         'magento/module-adobe-stock-image' => array(
             'pretty_version' => '1.3.5',
             'version' => '1.3.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-adobe-stock-image',
             'aliases' => array(),
@@ -1216,7 +1216,7 @@
         'magento/module-adobe-stock-image-admin-ui' => array(
             'pretty_version' => '1.3.5-p1',
             'version' => '1.3.5.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-adobe-stock-image-admin-ui',
             'aliases' => array(),
@@ -1225,7 +1225,7 @@
         'magento/module-adobe-stock-image-api' => array(
             'pretty_version' => '1.3.3',
             'version' => '1.3.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-adobe-stock-image-api',
             'aliases' => array(),
@@ -1234,7 +1234,7 @@
         'magento/module-advanced-pricing-import-export' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-advanced-pricing-import-export',
             'aliases' => array(),
@@ -1243,7 +1243,7 @@
         'magento/module-advanced-search' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-advanced-search',
             'aliases' => array(),
@@ -1252,7 +1252,7 @@
         'magento/module-amqp' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-amqp',
             'aliases' => array(),
@@ -1261,7 +1261,7 @@
         'magento/module-analytics' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-analytics',
             'aliases' => array(),
@@ -1270,7 +1270,7 @@
         'magento/module-application-performance-monitor' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-application-performance-monitor',
             'aliases' => array(),
@@ -1279,7 +1279,7 @@
         'magento/module-application-performance-monitor-new-relic' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-application-performance-monitor-new-relic',
             'aliases' => array(),
@@ -1288,7 +1288,7 @@
         'magento/module-async-config' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-async-config',
             'aliases' => array(),
@@ -1297,7 +1297,7 @@
         'magento/module-asynchronous-operations' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-asynchronous-operations',
             'aliases' => array(),
@@ -1306,7 +1306,7 @@
         'magento/module-authorization' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-authorization',
             'aliases' => array(),
@@ -1315,7 +1315,7 @@
         'magento/module-aws-s3' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-aws-s3',
             'aliases' => array(),
@@ -1324,7 +1324,7 @@
         'magento/module-aws-s3-page-builder' => array(
             'pretty_version' => '1.0.4',
             'version' => '1.0.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-aws-s3-page-builder',
             'aliases' => array(),
@@ -1333,7 +1333,7 @@
         'magento/module-backend' => array(
             'pretty_version' => '102.0.7',
             'version' => '102.0.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-backend',
             'aliases' => array(),
@@ -1342,7 +1342,7 @@
         'magento/module-backup' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-backup',
             'aliases' => array(),
@@ -1351,7 +1351,7 @@
         'magento/module-bundle' => array(
             'pretty_version' => '101.0.7',
             'version' => '101.0.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-bundle',
             'aliases' => array(),
@@ -1360,7 +1360,7 @@
         'magento/module-bundle-graph-ql' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-bundle-graph-ql',
             'aliases' => array(),
@@ -1369,7 +1369,7 @@
         'magento/module-bundle-import-export' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-bundle-import-export',
             'aliases' => array(),
@@ -1378,7 +1378,7 @@
         'magento/module-bundle-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-bundle-sample-data',
             'aliases' => array(),
@@ -1387,7 +1387,7 @@
         'magento/module-cache-invalidate' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-cache-invalidate',
             'aliases' => array(),
@@ -1396,7 +1396,7 @@
         'magento/module-captcha' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-captcha',
             'aliases' => array(),
@@ -1405,7 +1405,7 @@
         'magento/module-cardinal-commerce' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-cardinal-commerce',
             'aliases' => array(),
@@ -1414,7 +1414,7 @@
         'magento/module-catalog' => array(
             'pretty_version' => '104.0.7-p1',
             'version' => '104.0.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog',
             'aliases' => array(),
@@ -1423,7 +1423,7 @@
         'magento/module-catalog-analytics' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-analytics',
             'aliases' => array(),
@@ -1432,7 +1432,7 @@
         'magento/module-catalog-cms-graph-ql' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-cms-graph-ql',
             'aliases' => array(),
@@ -1441,7 +1441,7 @@
         'magento/module-catalog-customer-graph-ql' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-customer-graph-ql',
             'aliases' => array(),
@@ -1450,7 +1450,7 @@
         'magento/module-catalog-graph-ql' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-graph-ql',
             'aliases' => array(),
@@ -1459,7 +1459,7 @@
         'magento/module-catalog-import-export' => array(
             'pretty_version' => '101.1.7',
             'version' => '101.1.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-import-export',
             'aliases' => array(),
@@ -1468,7 +1468,7 @@
         'magento/module-catalog-inventory' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-inventory',
             'aliases' => array(),
@@ -1477,7 +1477,7 @@
         'magento/module-catalog-inventory-graph-ql' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-inventory-graph-ql',
             'aliases' => array(),
@@ -1486,7 +1486,7 @@
         'magento/module-catalog-page-builder-analytics' => array(
             'pretty_version' => '1.6.4',
             'version' => '1.6.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-page-builder-analytics',
             'aliases' => array(),
@@ -1495,7 +1495,7 @@
         'magento/module-catalog-rule' => array(
             'pretty_version' => '101.2.7',
             'version' => '101.2.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-rule',
             'aliases' => array(),
@@ -1504,7 +1504,7 @@
         'magento/module-catalog-rule-configurable' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-rule-configurable',
             'aliases' => array(),
@@ -1513,7 +1513,7 @@
         'magento/module-catalog-rule-graph-ql' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-rule-graph-ql',
             'aliases' => array(),
@@ -1522,7 +1522,7 @@
         'magento/module-catalog-rule-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-rule-sample-data',
             'aliases' => array(),
@@ -1531,7 +1531,7 @@
         'magento/module-catalog-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-sample-data',
             'aliases' => array(),
@@ -1540,7 +1540,7 @@
         'magento/module-catalog-search' => array(
             'pretty_version' => '102.0.7',
             'version' => '102.0.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-search',
             'aliases' => array(),
@@ -1549,7 +1549,7 @@
         'magento/module-catalog-url-rewrite' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-url-rewrite',
             'aliases' => array(),
@@ -1558,7 +1558,7 @@
         'magento/module-catalog-url-rewrite-graph-ql' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-url-rewrite-graph-ql',
             'aliases' => array(),
@@ -1567,7 +1567,7 @@
         'magento/module-catalog-widget' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-catalog-widget',
             'aliases' => array(),
@@ -1576,7 +1576,7 @@
         'magento/module-checkout' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-checkout',
             'aliases' => array(),
@@ -1585,7 +1585,7 @@
         'magento/module-checkout-agreements' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-checkout-agreements',
             'aliases' => array(),
@@ -1594,7 +1594,7 @@
         'magento/module-checkout-agreements-graph-ql' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-checkout-agreements-graph-ql',
             'aliases' => array(),
@@ -1603,7 +1603,7 @@
         'magento/module-cms' => array(
             'pretty_version' => '104.0.7',
             'version' => '104.0.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-cms',
             'aliases' => array(),
@@ -1612,7 +1612,7 @@
         'magento/module-cms-graph-ql' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-cms-graph-ql',
             'aliases' => array(),
@@ -1621,7 +1621,7 @@
         'magento/module-cms-page-builder-analytics' => array(
             'pretty_version' => '1.6.4',
             'version' => '1.6.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-cms-page-builder-analytics',
             'aliases' => array(),
@@ -1630,7 +1630,7 @@
         'magento/module-cms-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-cms-sample-data',
             'aliases' => array(),
@@ -1639,7 +1639,7 @@
         'magento/module-cms-url-rewrite' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-cms-url-rewrite',
             'aliases' => array(),
@@ -1648,7 +1648,7 @@
         'magento/module-cms-url-rewrite-graph-ql' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-cms-url-rewrite-graph-ql',
             'aliases' => array(),
@@ -1657,7 +1657,7 @@
         'magento/module-compare-list-graph-ql' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-compare-list-graph-ql',
             'aliases' => array(),
@@ -1666,7 +1666,7 @@
         'magento/module-config' => array(
             'pretty_version' => '101.2.7',
             'version' => '101.2.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-config',
             'aliases' => array(),
@@ -1675,7 +1675,7 @@
         'magento/module-configurable-import-export' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-configurable-import-export',
             'aliases' => array(),
@@ -1684,7 +1684,7 @@
         'magento/module-configurable-product' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-configurable-product',
             'aliases' => array(),
@@ -1693,7 +1693,7 @@
         'magento/module-configurable-product-graph-ql' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-configurable-product-graph-ql',
             'aliases' => array(),
@@ -1702,7 +1702,7 @@
         'magento/module-configurable-product-sales' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-configurable-product-sales',
             'aliases' => array(),
@@ -1711,7 +1711,7 @@
         'magento/module-configurable-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-configurable-sample-data',
             'aliases' => array(),
@@ -1720,7 +1720,7 @@
         'magento/module-contact' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-contact',
             'aliases' => array(),
@@ -1729,7 +1729,7 @@
         'magento/module-contact-graph-ql' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-contact-graph-ql',
             'aliases' => array(),
@@ -1738,7 +1738,7 @@
         'magento/module-cookie' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-cookie',
             'aliases' => array(),
@@ -1747,7 +1747,7 @@
         'magento/module-cron' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-cron',
             'aliases' => array(),
@@ -1756,7 +1756,7 @@
         'magento/module-csp' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-csp',
             'aliases' => array(),
@@ -1765,7 +1765,7 @@
         'magento/module-currency-symbol' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-currency-symbol',
             'aliases' => array(),
@@ -1774,7 +1774,7 @@
         'magento/module-customer' => array(
             'pretty_version' => '103.0.7-p1',
             'version' => '103.0.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-customer',
             'aliases' => array(),
@@ -1783,7 +1783,7 @@
         'magento/module-customer-analytics' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-customer-analytics',
             'aliases' => array(),
@@ -1792,7 +1792,7 @@
         'magento/module-customer-downloadable-graph-ql' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-customer-downloadable-graph-ql',
             'aliases' => array(),
@@ -1801,7 +1801,7 @@
         'magento/module-customer-graph-ql' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-customer-graph-ql',
             'aliases' => array(),
@@ -1810,7 +1810,7 @@
         'magento/module-customer-import-export' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-customer-import-export',
             'aliases' => array(),
@@ -1819,7 +1819,7 @@
         'magento/module-customer-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-customer-sample-data',
             'aliases' => array(),
@@ -1828,7 +1828,7 @@
         'magento/module-data-exporter' => array(
             'pretty_version' => '103.3.9',
             'version' => '103.3.9.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-data-exporter',
             'aliases' => array(),
@@ -1837,7 +1837,7 @@
         'magento/module-deploy' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-deploy',
             'aliases' => array(),
@@ -1846,7 +1846,7 @@
         'magento/module-developer' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-developer',
             'aliases' => array(),
@@ -1855,7 +1855,7 @@
         'magento/module-dhl' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-dhl',
             'aliases' => array(),
@@ -1864,7 +1864,7 @@
         'magento/module-directory' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-directory',
             'aliases' => array(),
@@ -1873,7 +1873,7 @@
         'magento/module-directory-graph-ql' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-directory-graph-ql',
             'aliases' => array(),
@@ -1882,7 +1882,7 @@
         'magento/module-downloadable' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-downloadable',
             'aliases' => array(),
@@ -1891,7 +1891,7 @@
         'magento/module-downloadable-graph-ql' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-downloadable-graph-ql',
             'aliases' => array(),
@@ -1900,7 +1900,7 @@
         'magento/module-downloadable-import-export' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-downloadable-import-export',
             'aliases' => array(),
@@ -1909,7 +1909,7 @@
         'magento/module-downloadable-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-downloadable-sample-data',
             'aliases' => array(),
@@ -1918,7 +1918,7 @@
         'magento/module-eav' => array(
             'pretty_version' => '102.1.7',
             'version' => '102.1.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-eav',
             'aliases' => array(),
@@ -1927,7 +1927,7 @@
         'magento/module-eav-graph-ql' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-eav-graph-ql',
             'aliases' => array(),
@@ -1936,7 +1936,7 @@
         'magento/module-elasticsearch' => array(
             'pretty_version' => '101.0.7',
             'version' => '101.0.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-elasticsearch',
             'aliases' => array(),
@@ -1945,7 +1945,7 @@
         'magento/module-elasticsearch-7' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-elasticsearch-7',
             'aliases' => array(),
@@ -1954,7 +1954,7 @@
         'magento/module-email' => array(
             'pretty_version' => '101.1.7',
             'version' => '101.1.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-email',
             'aliases' => array(),
@@ -1963,7 +1963,7 @@
         'magento/module-encryption-key' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-encryption-key',
             'aliases' => array(),
@@ -1972,7 +1972,7 @@
         'magento/module-fedex' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-fedex',
             'aliases' => array(),
@@ -1981,7 +1981,7 @@
         'magento/module-gift-message' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-gift-message',
             'aliases' => array(),
@@ -1990,7 +1990,7 @@
         'magento/module-gift-message-graph-ql' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-gift-message-graph-ql',
             'aliases' => array(),
@@ -1999,7 +1999,7 @@
         'magento/module-google-adwords' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-google-adwords',
             'aliases' => array(),
@@ -2008,7 +2008,7 @@
         'magento/module-google-analytics' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-google-analytics',
             'aliases' => array(),
@@ -2017,7 +2017,7 @@
         'magento/module-google-gtag' => array(
             'pretty_version' => '100.4.2',
             'version' => '100.4.2.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-google-gtag',
             'aliases' => array(),
@@ -2026,7 +2026,7 @@
         'magento/module-google-optimizer' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-google-optimizer',
             'aliases' => array(),
@@ -2035,7 +2035,7 @@
         'magento/module-graph-ql' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-graph-ql',
             'aliases' => array(),
@@ -2044,7 +2044,7 @@
         'magento/module-graph-ql-cache' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-graph-ql-cache',
             'aliases' => array(),
@@ -2053,7 +2053,7 @@
         'magento/module-graph-ql-new-relic' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-graph-ql-new-relic',
             'aliases' => array(),
@@ -2062,7 +2062,7 @@
         'magento/module-graph-ql-resolver-cache' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-graph-ql-resolver-cache',
             'aliases' => array(),
@@ -2071,7 +2071,7 @@
         'magento/module-graph-ql-server' => array(
             'pretty_version' => '1.0.2',
             'version' => '1.0.2.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-graph-ql-server',
             'aliases' => array(),
@@ -2080,7 +2080,7 @@
         'magento/module-grouped-catalog-inventory' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-grouped-catalog-inventory',
             'aliases' => array(),
@@ -2089,7 +2089,7 @@
         'magento/module-grouped-import-export' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-grouped-import-export',
             'aliases' => array(),
@@ -2098,7 +2098,7 @@
         'magento/module-grouped-product' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-grouped-product',
             'aliases' => array(),
@@ -2107,7 +2107,7 @@
         'magento/module-grouped-product-graph-ql' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-grouped-product-graph-ql',
             'aliases' => array(),
@@ -2116,7 +2116,7 @@
         'magento/module-grouped-product-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-grouped-product-sample-data',
             'aliases' => array(),
@@ -2125,7 +2125,7 @@
         'magento/module-import-export' => array(
             'pretty_version' => '101.0.7',
             'version' => '101.0.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-import-export',
             'aliases' => array(),
@@ -2134,7 +2134,7 @@
         'magento/module-indexer' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-indexer',
             'aliases' => array(),
@@ -2143,7 +2143,7 @@
         'magento/module-instant-purchase' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-instant-purchase',
             'aliases' => array(),
@@ -2152,7 +2152,7 @@
         'magento/module-integration' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-integration',
             'aliases' => array(),
@@ -2161,7 +2161,7 @@
         'magento/module-integration-graph-ql' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-integration-graph-ql',
             'aliases' => array(),
@@ -2170,7 +2170,7 @@
         'magento/module-inventory' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory',
             'aliases' => array(),
@@ -2179,7 +2179,7 @@
         'magento/module-inventory-admin-ui' => array(
             'pretty_version' => '1.2.5-p1',
             'version' => '1.2.5.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-admin-ui',
             'aliases' => array(),
@@ -2188,7 +2188,7 @@
         'magento/module-inventory-advanced-checkout' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-advanced-checkout',
             'aliases' => array(),
@@ -2197,7 +2197,7 @@
         'magento/module-inventory-api' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-api',
             'aliases' => array(),
@@ -2206,7 +2206,7 @@
         'magento/module-inventory-bundle-import-export' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-bundle-import-export',
             'aliases' => array(),
@@ -2215,7 +2215,7 @@
         'magento/module-inventory-bundle-product' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-bundle-product',
             'aliases' => array(),
@@ -2224,7 +2224,7 @@
         'magento/module-inventory-bundle-product-admin-ui' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-bundle-product-admin-ui',
             'aliases' => array(),
@@ -2233,7 +2233,7 @@
         'magento/module-inventory-bundle-product-indexer' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-bundle-product-indexer',
             'aliases' => array(),
@@ -2242,7 +2242,7 @@
         'magento/module-inventory-cache' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-cache',
             'aliases' => array(),
@@ -2251,7 +2251,7 @@
         'magento/module-inventory-catalog' => array(
             'pretty_version' => '1.3.2',
             'version' => '1.3.2.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-catalog',
             'aliases' => array(),
@@ -2260,7 +2260,7 @@
         'magento/module-inventory-catalog-admin-ui' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-catalog-admin-ui',
             'aliases' => array(),
@@ -2269,7 +2269,7 @@
         'magento/module-inventory-catalog-api' => array(
             'pretty_version' => '1.3.5',
             'version' => '1.3.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-catalog-api',
             'aliases' => array(),
@@ -2278,7 +2278,7 @@
         'magento/module-inventory-catalog-frontend-ui' => array(
             'pretty_version' => '1.0.4',
             'version' => '1.0.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-catalog-frontend-ui',
             'aliases' => array(),
@@ -2287,7 +2287,7 @@
         'magento/module-inventory-catalog-search' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-catalog-search',
             'aliases' => array(),
@@ -2296,7 +2296,7 @@
         'magento/module-inventory-catalog-search-bundle-product' => array(
             'pretty_version' => '1.0.3',
             'version' => '1.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-catalog-search-bundle-product',
             'aliases' => array(),
@@ -2305,7 +2305,7 @@
         'magento/module-inventory-catalog-search-configurable-product' => array(
             'pretty_version' => '1.0.3',
             'version' => '1.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-catalog-search-configurable-product',
             'aliases' => array(),
@@ -2314,7 +2314,7 @@
         'magento/module-inventory-configurable-product' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-configurable-product',
             'aliases' => array(),
@@ -2323,7 +2323,7 @@
         'magento/module-inventory-configurable-product-admin-ui' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-configurable-product-admin-ui',
             'aliases' => array(),
@@ -2332,7 +2332,7 @@
         'magento/module-inventory-configurable-product-frontend-ui' => array(
             'pretty_version' => '1.0.5',
             'version' => '1.0.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-configurable-product-frontend-ui',
             'aliases' => array(),
@@ -2341,7 +2341,7 @@
         'magento/module-inventory-configurable-product-indexer' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-configurable-product-indexer',
             'aliases' => array(),
@@ -2350,7 +2350,7 @@
         'magento/module-inventory-configuration' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-configuration',
             'aliases' => array(),
@@ -2359,7 +2359,7 @@
         'magento/module-inventory-configuration-api' => array(
             'pretty_version' => '1.2.3',
             'version' => '1.2.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-configuration-api',
             'aliases' => array(),
@@ -2368,7 +2368,7 @@
         'magento/module-inventory-distance-based-source-selection' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-distance-based-source-selection',
             'aliases' => array(),
@@ -2377,7 +2377,7 @@
         'magento/module-inventory-distance-based-source-selection-admin-ui' => array(
             'pretty_version' => '1.2.3',
             'version' => '1.2.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-distance-based-source-selection-admin-ui',
             'aliases' => array(),
@@ -2386,7 +2386,7 @@
         'magento/module-inventory-distance-based-source-selection-api' => array(
             'pretty_version' => '1.2.3',
             'version' => '1.2.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-distance-based-source-selection-api',
             'aliases' => array(),
@@ -2395,7 +2395,7 @@
         'magento/module-inventory-elasticsearch' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-elasticsearch',
             'aliases' => array(),
@@ -2404,7 +2404,7 @@
         'magento/module-inventory-export-stock' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-export-stock',
             'aliases' => array(),
@@ -2413,7 +2413,7 @@
         'magento/module-inventory-export-stock-api' => array(
             'pretty_version' => '1.2.3',
             'version' => '1.2.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-export-stock-api',
             'aliases' => array(),
@@ -2422,7 +2422,7 @@
         'magento/module-inventory-graph-ql' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-graph-ql',
             'aliases' => array(),
@@ -2431,7 +2431,7 @@
         'magento/module-inventory-grouped-product' => array(
             'pretty_version' => '1.3.2',
             'version' => '1.3.2.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-grouped-product',
             'aliases' => array(),
@@ -2440,7 +2440,7 @@
         'magento/module-inventory-grouped-product-admin-ui' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-grouped-product-admin-ui',
             'aliases' => array(),
@@ -2449,7 +2449,7 @@
         'magento/module-inventory-grouped-product-indexer' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-grouped-product-indexer',
             'aliases' => array(),
@@ -2458,7 +2458,7 @@
         'magento/module-inventory-import-export' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-import-export',
             'aliases' => array(),
@@ -2467,7 +2467,7 @@
         'magento/module-inventory-in-store-pickup' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup',
             'aliases' => array(),
@@ -2476,7 +2476,7 @@
         'magento/module-inventory-in-store-pickup-admin-ui' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-admin-ui',
             'aliases' => array(),
@@ -2485,7 +2485,7 @@
         'magento/module-inventory-in-store-pickup-api' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-api',
             'aliases' => array(),
@@ -2494,7 +2494,7 @@
         'magento/module-inventory-in-store-pickup-frontend' => array(
             'pretty_version' => '1.1.5',
             'version' => '1.1.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-frontend',
             'aliases' => array(),
@@ -2503,7 +2503,7 @@
         'magento/module-inventory-in-store-pickup-graph-ql' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-graph-ql',
             'aliases' => array(),
@@ -2512,7 +2512,7 @@
         'magento/module-inventory-in-store-pickup-multishipping' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-multishipping',
             'aliases' => array(),
@@ -2521,7 +2521,7 @@
         'magento/module-inventory-in-store-pickup-quote' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-quote',
             'aliases' => array(),
@@ -2530,7 +2530,7 @@
         'magento/module-inventory-in-store-pickup-quote-graph-ql' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-quote-graph-ql',
             'aliases' => array(),
@@ -2539,7 +2539,7 @@
         'magento/module-inventory-in-store-pickup-sales' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-sales',
             'aliases' => array(),
@@ -2548,7 +2548,7 @@
         'magento/module-inventory-in-store-pickup-sales-admin-ui' => array(
             'pretty_version' => '1.1.5',
             'version' => '1.1.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-sales-admin-ui',
             'aliases' => array(),
@@ -2557,7 +2557,7 @@
         'magento/module-inventory-in-store-pickup-sales-api' => array(
             'pretty_version' => '1.1.3-p1',
             'version' => '1.1.3.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-sales-api',
             'aliases' => array(),
@@ -2566,7 +2566,7 @@
         'magento/module-inventory-in-store-pickup-shipping' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-shipping',
             'aliases' => array(),
@@ -2575,7 +2575,7 @@
         'magento/module-inventory-in-store-pickup-shipping-admin-ui' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-shipping-admin-ui',
             'aliases' => array(),
@@ -2584,7 +2584,7 @@
         'magento/module-inventory-in-store-pickup-shipping-api' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-shipping-api',
             'aliases' => array(),
@@ -2593,7 +2593,7 @@
         'magento/module-inventory-in-store-pickup-webapi-extension' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-in-store-pickup-webapi-extension',
             'aliases' => array(),
@@ -2602,7 +2602,7 @@
         'magento/module-inventory-indexer' => array(
             'pretty_version' => '2.2.2',
             'version' => '2.2.2.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-indexer',
             'aliases' => array(),
@@ -2611,7 +2611,7 @@
         'magento/module-inventory-low-quantity-notification' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-low-quantity-notification',
             'aliases' => array(),
@@ -2620,7 +2620,7 @@
         'magento/module-inventory-low-quantity-notification-admin-ui' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-low-quantity-notification-admin-ui',
             'aliases' => array(),
@@ -2629,7 +2629,7 @@
         'magento/module-inventory-low-quantity-notification-api' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-low-quantity-notification-api',
             'aliases' => array(),
@@ -2638,7 +2638,7 @@
         'magento/module-inventory-multi-dimensional-indexer-api' => array(
             'pretty_version' => '1.2.3',
             'version' => '1.2.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-multi-dimensional-indexer-api',
             'aliases' => array(),
@@ -2647,7 +2647,7 @@
         'magento/module-inventory-product-alert' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-product-alert',
             'aliases' => array(),
@@ -2656,7 +2656,7 @@
         'magento/module-inventory-quote-graph-ql' => array(
             'pretty_version' => '1.0.4',
             'version' => '1.0.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-quote-graph-ql',
             'aliases' => array(),
@@ -2665,7 +2665,7 @@
         'magento/module-inventory-requisition-list' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-requisition-list',
             'aliases' => array(),
@@ -2674,7 +2674,7 @@
         'magento/module-inventory-reservation-cli' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-reservation-cli',
             'aliases' => array(),
@@ -2683,7 +2683,7 @@
         'magento/module-inventory-reservations' => array(
             'pretty_version' => '1.2.3',
             'version' => '1.2.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-reservations',
             'aliases' => array(),
@@ -2692,7 +2692,7 @@
         'magento/module-inventory-reservations-api' => array(
             'pretty_version' => '1.2.3',
             'version' => '1.2.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-reservations-api',
             'aliases' => array(),
@@ -2701,7 +2701,7 @@
         'magento/module-inventory-sales' => array(
             'pretty_version' => '1.3.2',
             'version' => '1.3.2.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-sales',
             'aliases' => array(),
@@ -2710,7 +2710,7 @@
         'magento/module-inventory-sales-admin-ui' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-sales-admin-ui',
             'aliases' => array(),
@@ -2719,7 +2719,7 @@
         'magento/module-inventory-sales-api' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-sales-api',
             'aliases' => array(),
@@ -2728,7 +2728,7 @@
         'magento/module-inventory-sales-async-order' => array(
             'pretty_version' => '100.2.1',
             'version' => '100.2.1.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-sales-async-order',
             'aliases' => array(),
@@ -2737,7 +2737,7 @@
         'magento/module-inventory-sales-frontend-ui' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-sales-frontend-ui',
             'aliases' => array(),
@@ -2746,7 +2746,7 @@
         'magento/module-inventory-setup-fixture-generator' => array(
             'pretty_version' => '1.2.3',
             'version' => '1.2.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-setup-fixture-generator',
             'aliases' => array(),
@@ -2755,7 +2755,7 @@
         'magento/module-inventory-shipping' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-shipping',
             'aliases' => array(),
@@ -2764,7 +2764,7 @@
         'magento/module-inventory-shipping-admin-ui' => array(
             'pretty_version' => '1.2.5',
             'version' => '1.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-shipping-admin-ui',
             'aliases' => array(),
@@ -2773,7 +2773,7 @@
         'magento/module-inventory-source-deduction-api' => array(
             'pretty_version' => '1.2.4',
             'version' => '1.2.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-source-deduction-api',
             'aliases' => array(),
@@ -2782,7 +2782,7 @@
         'magento/module-inventory-source-selection' => array(
             'pretty_version' => '1.2.3',
             'version' => '1.2.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-source-selection',
             'aliases' => array(),
@@ -2791,7 +2791,7 @@
         'magento/module-inventory-source-selection-api' => array(
             'pretty_version' => '1.4.4',
             'version' => '1.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-source-selection-api',
             'aliases' => array(),
@@ -2800,7 +2800,7 @@
         'magento/module-inventory-swatches-frontend-ui' => array(
             'pretty_version' => '1.0.3',
             'version' => '1.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-swatches-frontend-ui',
             'aliases' => array(),
@@ -2809,7 +2809,7 @@
         'magento/module-inventory-visual-merchandiser' => array(
             'pretty_version' => '1.1.5',
             'version' => '1.1.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-visual-merchandiser',
             'aliases' => array(),
@@ -2818,7 +2818,7 @@
         'magento/module-inventory-wishlist' => array(
             'pretty_version' => '1.0.4',
             'version' => '1.0.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-inventory-wishlist',
             'aliases' => array(),
@@ -2827,7 +2827,7 @@
         'magento/module-jwt-framework-adapter' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-jwt-framework-adapter',
             'aliases' => array(),
@@ -2836,7 +2836,7 @@
         'magento/module-jwt-user-token' => array(
             'pretty_version' => '100.4.2',
             'version' => '100.4.2.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-jwt-user-token',
             'aliases' => array(),
@@ -2845,7 +2845,7 @@
         'magento/module-layered-navigation' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-layered-navigation',
             'aliases' => array(),
@@ -2854,7 +2854,7 @@
         'magento/module-login-as-customer' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-login-as-customer',
             'aliases' => array(),
@@ -2863,7 +2863,7 @@
         'magento/module-login-as-customer-admin-ui' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-login-as-customer-admin-ui',
             'aliases' => array(),
@@ -2872,7 +2872,7 @@
         'magento/module-login-as-customer-api' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-login-as-customer-api',
             'aliases' => array(),
@@ -2881,7 +2881,7 @@
         'magento/module-login-as-customer-assistance' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-login-as-customer-assistance',
             'aliases' => array(),
@@ -2890,7 +2890,7 @@
         'magento/module-login-as-customer-frontend-ui' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-login-as-customer-frontend-ui',
             'aliases' => array(),
@@ -2899,7 +2899,7 @@
         'magento/module-login-as-customer-graph-ql' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-login-as-customer-graph-ql',
             'aliases' => array(),
@@ -2908,7 +2908,7 @@
         'magento/module-login-as-customer-log' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-login-as-customer-log',
             'aliases' => array(),
@@ -2917,7 +2917,7 @@
         'magento/module-login-as-customer-page-cache' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-login-as-customer-page-cache',
             'aliases' => array(),
@@ -2926,7 +2926,7 @@
         'magento/module-login-as-customer-quote' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-login-as-customer-quote',
             'aliases' => array(),
@@ -2935,7 +2935,7 @@
         'magento/module-login-as-customer-sales' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-login-as-customer-sales',
             'aliases' => array(),
@@ -2944,7 +2944,7 @@
         'magento/module-marketplace' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-marketplace',
             'aliases' => array(),
@@ -2953,7 +2953,7 @@
         'magento/module-media-content' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-content',
             'aliases' => array(),
@@ -2962,7 +2962,7 @@
         'magento/module-media-content-api' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-content-api',
             'aliases' => array(),
@@ -2971,7 +2971,7 @@
         'magento/module-media-content-catalog' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-content-catalog',
             'aliases' => array(),
@@ -2980,7 +2980,7 @@
         'magento/module-media-content-cms' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-content-cms',
             'aliases' => array(),
@@ -2989,7 +2989,7 @@
         'magento/module-media-content-synchronization' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-content-synchronization',
             'aliases' => array(),
@@ -2998,7 +2998,7 @@
         'magento/module-media-content-synchronization-api' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-content-synchronization-api',
             'aliases' => array(),
@@ -3007,7 +3007,7 @@
         'magento/module-media-content-synchronization-catalog' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-content-synchronization-catalog',
             'aliases' => array(),
@@ -3016,7 +3016,7 @@
         'magento/module-media-content-synchronization-cms' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-content-synchronization-cms',
             'aliases' => array(),
@@ -3025,7 +3025,7 @@
         'magento/module-media-gallery' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery',
             'aliases' => array(),
@@ -3034,7 +3034,7 @@
         'magento/module-media-gallery-api' => array(
             'pretty_version' => '101.0.6',
             'version' => '101.0.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-api',
             'aliases' => array(),
@@ -3043,7 +3043,7 @@
         'magento/module-media-gallery-catalog' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-catalog',
             'aliases' => array(),
@@ -3052,7 +3052,7 @@
         'magento/module-media-gallery-catalog-integration' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-catalog-integration',
             'aliases' => array(),
@@ -3061,7 +3061,7 @@
         'magento/module-media-gallery-catalog-ui' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-catalog-ui',
             'aliases' => array(),
@@ -3070,7 +3070,7 @@
         'magento/module-media-gallery-cms-ui' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-cms-ui',
             'aliases' => array(),
@@ -3079,7 +3079,7 @@
         'magento/module-media-gallery-integration' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-integration',
             'aliases' => array(),
@@ -3088,7 +3088,7 @@
         'magento/module-media-gallery-metadata' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-metadata',
             'aliases' => array(),
@@ -3097,7 +3097,7 @@
         'magento/module-media-gallery-metadata-api' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-metadata-api',
             'aliases' => array(),
@@ -3106,7 +3106,7 @@
         'magento/module-media-gallery-renditions' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-renditions',
             'aliases' => array(),
@@ -3115,7 +3115,7 @@
         'magento/module-media-gallery-renditions-api' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-renditions-api',
             'aliases' => array(),
@@ -3124,7 +3124,7 @@
         'magento/module-media-gallery-synchronization' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-synchronization',
             'aliases' => array(),
@@ -3133,7 +3133,7 @@
         'magento/module-media-gallery-synchronization-api' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-synchronization-api',
             'aliases' => array(),
@@ -3142,7 +3142,7 @@
         'magento/module-media-gallery-synchronization-metadata' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-synchronization-metadata',
             'aliases' => array(),
@@ -3151,7 +3151,7 @@
         'magento/module-media-gallery-ui' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-ui',
             'aliases' => array(),
@@ -3160,7 +3160,7 @@
         'magento/module-media-gallery-ui-api' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-gallery-ui-api',
             'aliases' => array(),
@@ -3169,7 +3169,7 @@
         'magento/module-media-storage' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-media-storage',
             'aliases' => array(),
@@ -3178,7 +3178,7 @@
         'magento/module-message-queue' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-message-queue',
             'aliases' => array(),
@@ -3187,7 +3187,7 @@
         'magento/module-msrp' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-msrp',
             'aliases' => array(),
@@ -3196,7 +3196,7 @@
         'magento/module-msrp-configurable-product' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-msrp-configurable-product',
             'aliases' => array(),
@@ -3205,7 +3205,7 @@
         'magento/module-msrp-grouped-product' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-msrp-grouped-product',
             'aliases' => array(),
@@ -3214,7 +3214,7 @@
         'magento/module-msrp-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-msrp-sample-data',
             'aliases' => array(),
@@ -3223,7 +3223,7 @@
         'magento/module-multishipping' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-multishipping',
             'aliases' => array(),
@@ -3232,7 +3232,7 @@
         'magento/module-mysql-mq' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-mysql-mq',
             'aliases' => array(),
@@ -3241,7 +3241,7 @@
         'magento/module-new-relic-reporting' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-new-relic-reporting',
             'aliases' => array(),
@@ -3250,7 +3250,7 @@
         'magento/module-newsletter' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-newsletter',
             'aliases' => array(),
@@ -3259,7 +3259,7 @@
         'magento/module-newsletter-graph-ql' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-newsletter-graph-ql',
             'aliases' => array(),
@@ -3268,7 +3268,7 @@
         'magento/module-offline-payments' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-offline-payments',
             'aliases' => array(),
@@ -3277,7 +3277,7 @@
         'magento/module-offline-shipping' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-offline-shipping',
             'aliases' => array(),
@@ -3286,7 +3286,7 @@
         'magento/module-offline-shipping-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-offline-shipping-sample-data',
             'aliases' => array(),
@@ -3295,7 +3295,7 @@
         'magento/module-open-search' => array(
             'pretty_version' => '100.4.1',
             'version' => '100.4.1.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-open-search',
             'aliases' => array(),
@@ -3304,7 +3304,7 @@
         'magento/module-order-cancellation' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-order-cancellation',
             'aliases' => array(),
@@ -3313,7 +3313,7 @@
         'magento/module-order-cancellation-graph-ql' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-order-cancellation-graph-ql',
             'aliases' => array(),
@@ -3322,7 +3322,7 @@
         'magento/module-order-cancellation-ui' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-order-cancellation-ui',
             'aliases' => array(),
@@ -3331,7 +3331,7 @@
         'magento/module-page-builder' => array(
             'pretty_version' => '2.2.5',
             'version' => '2.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-page-builder',
             'aliases' => array(),
@@ -3340,7 +3340,7 @@
         'magento/module-page-builder-admin-analytics' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-page-builder-admin-analytics',
             'aliases' => array(),
@@ -3349,7 +3349,7 @@
         'magento/module-page-builder-analytics' => array(
             'pretty_version' => '1.6.4',
             'version' => '1.6.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-page-builder-analytics',
             'aliases' => array(),
@@ -3358,7 +3358,7 @@
         'magento/module-page-cache' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-page-cache',
             'aliases' => array(),
@@ -3367,7 +3367,7 @@
         'magento/module-payment' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-payment',
             'aliases' => array(),
@@ -3376,7 +3376,7 @@
         'magento/module-payment-graph-ql' => array(
             'pretty_version' => '100.4.2',
             'version' => '100.4.2.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-payment-graph-ql',
             'aliases' => array(),
@@ -3385,7 +3385,7 @@
         'magento/module-payment-services-base' => array(
             'pretty_version' => '2.7.0',
             'version' => '2.7.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-payment-services-base',
             'aliases' => array(),
@@ -3394,7 +3394,7 @@
         'magento/module-payment-services-dashboard' => array(
             'pretty_version' => '2.7.0',
             'version' => '2.7.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-payment-services-dashboard',
             'aliases' => array(),
@@ -3403,7 +3403,7 @@
         'magento/module-payment-services-paypal' => array(
             'pretty_version' => '2.7.0',
             'version' => '2.7.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-payment-services-paypal',
             'aliases' => array(),
@@ -3412,7 +3412,7 @@
         'magento/module-payment-services-paypal-graph-ql' => array(
             'pretty_version' => '2.7.0',
             'version' => '2.7.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-payment-services-paypal-graph-ql',
             'aliases' => array(),
@@ -3421,7 +3421,7 @@
         'magento/module-payment-services-saas-export' => array(
             'pretty_version' => '2.7.0',
             'version' => '2.7.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-payment-services-saas-export',
             'aliases' => array(),
@@ -3430,7 +3430,7 @@
         'magento/module-paypal' => array(
             'pretty_version' => '101.0.7',
             'version' => '101.0.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-paypal',
             'aliases' => array(),
@@ -3439,7 +3439,7 @@
         'magento/module-paypal-captcha' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-paypal-captcha',
             'aliases' => array(),
@@ -3448,7 +3448,7 @@
         'magento/module-paypal-graph-ql' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-paypal-graph-ql',
             'aliases' => array(),
@@ -3457,7 +3457,7 @@
         'magento/module-persistent' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-persistent',
             'aliases' => array(),
@@ -3466,7 +3466,7 @@
         'magento/module-product-alert' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-product-alert',
             'aliases' => array(),
@@ -3475,7 +3475,7 @@
         'magento/module-product-links-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-product-links-sample-data',
             'aliases' => array(),
@@ -3484,7 +3484,7 @@
         'magento/module-product-video' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-product-video',
             'aliases' => array(),
@@ -3493,7 +3493,7 @@
         'magento/module-query-xml' => array(
             'pretty_version' => '103.3.9',
             'version' => '103.3.9.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-query-xml',
             'aliases' => array(),
@@ -3502,7 +3502,7 @@
         'magento/module-quote' => array(
             'pretty_version' => '101.2.7-p1',
             'version' => '101.2.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-quote',
             'aliases' => array(),
@@ -3511,7 +3511,7 @@
         'magento/module-quote-analytics' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-quote-analytics',
             'aliases' => array(),
@@ -3520,7 +3520,7 @@
         'magento/module-quote-bundle-options' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-quote-bundle-options',
             'aliases' => array(),
@@ -3529,7 +3529,7 @@
         'magento/module-quote-configurable-options' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-quote-configurable-options',
             'aliases' => array(),
@@ -3538,7 +3538,7 @@
         'magento/module-quote-downloadable-links' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-quote-downloadable-links',
             'aliases' => array(),
@@ -3547,7 +3547,7 @@
         'magento/module-quote-graph-ql' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-quote-graph-ql',
             'aliases' => array(),
@@ -3556,7 +3556,7 @@
         'magento/module-re-captcha-admin-ui' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-admin-ui',
             'aliases' => array(),
@@ -3565,7 +3565,7 @@
         'magento/module-re-captcha-checkout' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-checkout',
             'aliases' => array(),
@@ -3574,7 +3574,7 @@
         'magento/module-re-captcha-checkout-sales-rule' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-checkout-sales-rule',
             'aliases' => array(),
@@ -3583,7 +3583,7 @@
         'magento/module-re-captcha-contact' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-contact',
             'aliases' => array(),
@@ -3592,7 +3592,7 @@
         'magento/module-re-captcha-customer' => array(
             'pretty_version' => '1.1.5',
             'version' => '1.1.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-customer',
             'aliases' => array(),
@@ -3601,7 +3601,7 @@
         'magento/module-re-captcha-frontend-ui' => array(
             'pretty_version' => '1.1.5',
             'version' => '1.1.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-frontend-ui',
             'aliases' => array(),
@@ -3610,7 +3610,7 @@
         'magento/module-re-captcha-migration' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-migration',
             'aliases' => array(),
@@ -3619,7 +3619,7 @@
         'magento/module-re-captcha-newsletter' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-newsletter',
             'aliases' => array(),
@@ -3628,7 +3628,7 @@
         'magento/module-re-captcha-paypal' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-paypal',
             'aliases' => array(),
@@ -3637,7 +3637,7 @@
         'magento/module-re-captcha-review' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-review',
             'aliases' => array(),
@@ -3646,7 +3646,7 @@
         'magento/module-re-captcha-send-friend' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-send-friend',
             'aliases' => array(),
@@ -3655,7 +3655,7 @@
         'magento/module-re-captcha-store-pickup' => array(
             'pretty_version' => '1.0.3',
             'version' => '1.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-store-pickup',
             'aliases' => array(),
@@ -3664,7 +3664,7 @@
         'magento/module-re-captcha-ui' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-ui',
             'aliases' => array(),
@@ -3673,7 +3673,7 @@
         'magento/module-re-captcha-user' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-user',
             'aliases' => array(),
@@ -3682,7 +3682,7 @@
         'magento/module-re-captcha-validation' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-validation',
             'aliases' => array(),
@@ -3691,7 +3691,7 @@
         'magento/module-re-captcha-validation-api' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-validation-api',
             'aliases' => array(),
@@ -3700,7 +3700,7 @@
         'magento/module-re-captcha-version-2-checkbox' => array(
             'pretty_version' => '2.0.4',
             'version' => '2.0.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-version-2-checkbox',
             'aliases' => array(),
@@ -3709,7 +3709,7 @@
         'magento/module-re-captcha-version-2-invisible' => array(
             'pretty_version' => '2.0.4',
             'version' => '2.0.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-version-2-invisible',
             'aliases' => array(),
@@ -3718,7 +3718,7 @@
         'magento/module-re-captcha-version-3-invisible' => array(
             'pretty_version' => '2.0.4',
             'version' => '2.0.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-version-3-invisible',
             'aliases' => array(),
@@ -3727,7 +3727,7 @@
         'magento/module-re-captcha-webapi-api' => array(
             'pretty_version' => '1.0.3',
             'version' => '1.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-webapi-api',
             'aliases' => array(),
@@ -3736,7 +3736,7 @@
         'magento/module-re-captcha-webapi-graph-ql' => array(
             'pretty_version' => '1.0.3',
             'version' => '1.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-webapi-graph-ql',
             'aliases' => array(),
@@ -3745,7 +3745,7 @@
         'magento/module-re-captcha-webapi-rest' => array(
             'pretty_version' => '1.0.3',
             'version' => '1.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-webapi-rest',
             'aliases' => array(),
@@ -3754,7 +3754,7 @@
         'magento/module-re-captcha-webapi-ui' => array(
             'pretty_version' => '1.0.3',
             'version' => '1.0.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-re-captcha-webapi-ui',
             'aliases' => array(),
@@ -3763,7 +3763,7 @@
         'magento/module-related-product-graph-ql' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-related-product-graph-ql',
             'aliases' => array(),
@@ -3772,7 +3772,7 @@
         'magento/module-release-notification' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-release-notification',
             'aliases' => array(),
@@ -3781,7 +3781,7 @@
         'magento/module-remote-storage' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-remote-storage',
             'aliases' => array(),
@@ -3790,7 +3790,7 @@
         'magento/module-reports' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-reports',
             'aliases' => array(),
@@ -3799,7 +3799,7 @@
         'magento/module-require-js' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-require-js',
             'aliases' => array(),
@@ -3808,7 +3808,7 @@
         'magento/module-review' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-review',
             'aliases' => array(),
@@ -3817,7 +3817,7 @@
         'magento/module-review-analytics' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-review-analytics',
             'aliases' => array(),
@@ -3826,7 +3826,7 @@
         'magento/module-review-graph-ql' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-review-graph-ql',
             'aliases' => array(),
@@ -3835,7 +3835,7 @@
         'magento/module-review-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-review-sample-data',
             'aliases' => array(),
@@ -3844,7 +3844,7 @@
         'magento/module-robots' => array(
             'pretty_version' => '101.1.3',
             'version' => '101.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-robots',
             'aliases' => array(),
@@ -3853,7 +3853,7 @@
         'magento/module-rss' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-rss',
             'aliases' => array(),
@@ -3862,7 +3862,7 @@
         'magento/module-rule' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-rule',
             'aliases' => array(),
@@ -3871,7 +3871,7 @@
         'magento/module-saas-common' => array(
             'pretty_version' => '103.3.9',
             'version' => '103.3.9.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-saas-common',
             'aliases' => array(),
@@ -3880,7 +3880,7 @@
         'magento/module-sales' => array(
             'pretty_version' => '103.0.7-p1',
             'version' => '103.0.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sales',
             'aliases' => array(),
@@ -3889,7 +3889,7 @@
         'magento/module-sales-analytics' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sales-analytics',
             'aliases' => array(),
@@ -3898,7 +3898,7 @@
         'magento/module-sales-data-exporter' => array(
             'pretty_version' => '2.7.0',
             'version' => '2.7.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sales-data-exporter',
             'aliases' => array(),
@@ -3907,7 +3907,7 @@
         'magento/module-sales-graph-ql' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sales-graph-ql',
             'aliases' => array(),
@@ -3916,7 +3916,7 @@
         'magento/module-sales-inventory' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sales-inventory',
             'aliases' => array(),
@@ -3925,7 +3925,7 @@
         'magento/module-sales-rule' => array(
             'pretty_version' => '101.2.7',
             'version' => '101.2.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sales-rule',
             'aliases' => array(),
@@ -3934,7 +3934,7 @@
         'magento/module-sales-rule-graph-ql' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sales-rule-graph-ql',
             'aliases' => array(),
@@ -3943,7 +3943,7 @@
         'magento/module-sales-rule-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sales-rule-sample-data',
             'aliases' => array(),
@@ -3952,7 +3952,7 @@
         'magento/module-sales-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sales-sample-data',
             'aliases' => array(),
@@ -3961,7 +3961,7 @@
         'magento/module-sales-sequence' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sales-sequence',
             'aliases' => array(),
@@ -3970,7 +3970,7 @@
         'magento/module-sample-data' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sample-data',
             'aliases' => array(),
@@ -3979,7 +3979,7 @@
         'magento/module-search' => array(
             'pretty_version' => '101.1.7',
             'version' => '101.1.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-search',
             'aliases' => array(),
@@ -3988,7 +3988,7 @@
         'magento/module-security' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-security',
             'aliases' => array(),
@@ -3997,7 +3997,7 @@
         'magento/module-securitytxt' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-securitytxt',
             'aliases' => array(),
@@ -4006,7 +4006,7 @@
         'magento/module-send-friend' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-send-friend',
             'aliases' => array(),
@@ -4015,7 +4015,7 @@
         'magento/module-send-friend-graph-ql' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-send-friend-graph-ql',
             'aliases' => array(),
@@ -4024,7 +4024,7 @@
         'magento/module-service-proxy' => array(
             'pretty_version' => '2.7.0',
             'version' => '2.7.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-service-proxy',
             'aliases' => array(),
@@ -4033,7 +4033,7 @@
         'magento/module-services-id' => array(
             'pretty_version' => '3.2.5',
             'version' => '3.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-services-id',
             'aliases' => array(),
@@ -4042,7 +4042,7 @@
         'magento/module-services-id-graph-ql-server' => array(
             'pretty_version' => '1.1.4',
             'version' => '1.1.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-services-id-graph-ql-server',
             'aliases' => array(),
@@ -4051,7 +4051,7 @@
         'magento/module-services-id-layout' => array(
             'pretty_version' => '1.1.3',
             'version' => '1.1.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-services-id-layout',
             'aliases' => array(),
@@ -4060,7 +4060,7 @@
         'magento/module-shipping' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-shipping',
             'aliases' => array(),
@@ -4069,7 +4069,7 @@
         'magento/module-sitemap' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-sitemap',
             'aliases' => array(),
@@ -4078,7 +4078,7 @@
         'magento/module-store' => array(
             'pretty_version' => '101.1.7',
             'version' => '101.1.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-store',
             'aliases' => array(),
@@ -4087,7 +4087,7 @@
         'magento/module-store-data-exporter' => array(
             'pretty_version' => '2.7.0',
             'version' => '2.7.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-store-data-exporter',
             'aliases' => array(),
@@ -4096,7 +4096,7 @@
         'magento/module-store-graph-ql' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-store-graph-ql',
             'aliases' => array(),
@@ -4105,7 +4105,7 @@
         'magento/module-swagger' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-swagger',
             'aliases' => array(),
@@ -4114,7 +4114,7 @@
         'magento/module-swagger-webapi' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-swagger-webapi',
             'aliases' => array(),
@@ -4123,7 +4123,7 @@
         'magento/module-swagger-webapi-async' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-swagger-webapi-async',
             'aliases' => array(),
@@ -4132,7 +4132,7 @@
         'magento/module-swatches' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-swatches',
             'aliases' => array(),
@@ -4141,7 +4141,7 @@
         'magento/module-swatches-graph-ql' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-swatches-graph-ql',
             'aliases' => array(),
@@ -4150,7 +4150,7 @@
         'magento/module-swatches-layered-navigation' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-swatches-layered-navigation',
             'aliases' => array(),
@@ -4159,7 +4159,7 @@
         'magento/module-swatches-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-swatches-sample-data',
             'aliases' => array(),
@@ -4168,7 +4168,7 @@
         'magento/module-tax' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-tax',
             'aliases' => array(),
@@ -4177,7 +4177,7 @@
         'magento/module-tax-graph-ql' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-tax-graph-ql',
             'aliases' => array(),
@@ -4186,7 +4186,7 @@
         'magento/module-tax-import-export' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-tax-import-export',
             'aliases' => array(),
@@ -4195,7 +4195,7 @@
         'magento/module-tax-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-tax-sample-data',
             'aliases' => array(),
@@ -4204,7 +4204,7 @@
         'magento/module-theme' => array(
             'pretty_version' => '101.1.7',
             'version' => '101.1.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-theme',
             'aliases' => array(),
@@ -4213,7 +4213,7 @@
         'magento/module-theme-graph-ql' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-theme-graph-ql',
             'aliases' => array(),
@@ -4222,7 +4222,7 @@
         'magento/module-theme-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-theme-sample-data',
             'aliases' => array(),
@@ -4231,7 +4231,7 @@
         'magento/module-translation' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-translation',
             'aliases' => array(),
@@ -4240,7 +4240,7 @@
         'magento/module-two-factor-auth' => array(
             'pretty_version' => '1.1.6-p1',
             'version' => '1.1.6.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-two-factor-auth',
             'aliases' => array(),
@@ -4249,7 +4249,7 @@
         'magento/module-ui' => array(
             'pretty_version' => '101.2.7',
             'version' => '101.2.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-ui',
             'aliases' => array(),
@@ -4258,7 +4258,7 @@
         'magento/module-ups' => array(
             'pretty_version' => '100.4.7-p1',
             'version' => '100.4.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-ups',
             'aliases' => array(),
@@ -4267,7 +4267,7 @@
         'magento/module-url-rewrite' => array(
             'pretty_version' => '102.0.6',
             'version' => '102.0.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-url-rewrite',
             'aliases' => array(),
@@ -4276,7 +4276,7 @@
         'magento/module-url-rewrite-graph-ql' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-url-rewrite-graph-ql',
             'aliases' => array(),
@@ -4285,7 +4285,7 @@
         'magento/module-user' => array(
             'pretty_version' => '101.2.7',
             'version' => '101.2.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-user',
             'aliases' => array(),
@@ -4294,7 +4294,7 @@
         'magento/module-usps' => array(
             'pretty_version' => '100.4.6',
             'version' => '100.4.6.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-usps',
             'aliases' => array(),
@@ -4303,7 +4303,7 @@
         'magento/module-variable' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-variable',
             'aliases' => array(),
@@ -4312,7 +4312,7 @@
         'magento/module-vault' => array(
             'pretty_version' => '101.2.7',
             'version' => '101.2.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-vault',
             'aliases' => array(),
@@ -4321,7 +4321,7 @@
         'magento/module-vault-graph-ql' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-vault-graph-ql',
             'aliases' => array(),
@@ -4330,7 +4330,7 @@
         'magento/module-version' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-version',
             'aliases' => array(),
@@ -4339,7 +4339,7 @@
         'magento/module-webapi' => array(
             'pretty_version' => '100.4.6-p1',
             'version' => '100.4.6.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-webapi',
             'aliases' => array(),
@@ -4348,7 +4348,7 @@
         'magento/module-webapi-async' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-webapi-async',
             'aliases' => array(),
@@ -4357,7 +4357,7 @@
         'magento/module-webapi-security' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-webapi-security',
             'aliases' => array(),
@@ -4366,7 +4366,7 @@
         'magento/module-weee' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-weee',
             'aliases' => array(),
@@ -4375,7 +4375,7 @@
         'magento/module-weee-graph-ql' => array(
             'pretty_version' => '100.4.4',
             'version' => '100.4.4.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-weee-graph-ql',
             'aliases' => array(),
@@ -4384,7 +4384,7 @@
         'magento/module-widget' => array(
             'pretty_version' => '101.2.7',
             'version' => '101.2.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-widget',
             'aliases' => array(),
@@ -4393,7 +4393,7 @@
         'magento/module-widget-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-widget-sample-data',
             'aliases' => array(),
@@ -4402,7 +4402,7 @@
         'magento/module-wishlist' => array(
             'pretty_version' => '101.2.7',
             'version' => '101.2.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-wishlist',
             'aliases' => array(),
@@ -4411,7 +4411,7 @@
         'magento/module-wishlist-analytics' => array(
             'pretty_version' => '100.4.5',
             'version' => '100.4.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-wishlist-analytics',
             'aliases' => array(),
@@ -4420,7 +4420,7 @@
         'magento/module-wishlist-graph-ql' => array(
             'pretty_version' => '100.4.7',
             'version' => '100.4.7.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-wishlist-graph-ql',
             'aliases' => array(),
@@ -4429,7 +4429,7 @@
         'magento/module-wishlist-sample-data' => array(
             'pretty_version' => '100.4.3',
             'version' => '100.4.3.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/module-wishlist-sample-data',
             'aliases' => array(),
@@ -4438,18 +4438,18 @@
         'magento/page-builder' => array(
             'pretty_version' => '1.7.4-p1',
             'version' => '1.7.4.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'metapackage',
-            'install_path' => null,
+            'install_path' => NULL,
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'magento/payment-services' => array(
             'pretty_version' => '2.7.0',
             'version' => '2.7.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'metapackage',
-            'install_path' => null,
+            'install_path' => NULL,
             'aliases' => array(),
             'dev_requirement' => false,
         ),
@@ -4465,16 +4465,16 @@
         'magento/product-community-edition' => array(
             'pretty_version' => '2.4.7-p1',
             'version' => '2.4.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'metapackage',
-            'install_path' => null,
+            'install_path' => NULL,
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'magento/project-community-edition' => array(
             'pretty_version' => '2.4.7-p1',
             'version' => '2.4.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -4483,7 +4483,7 @@
         'magento/sample-data-media' => array(
             'pretty_version' => '100.4.0',
             'version' => '100.4.0.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-component',
             'install_path' => __DIR__ . '/../magento/sample-data-media',
             'aliases' => array(),
@@ -4492,16 +4492,16 @@
         'magento/security-package' => array(
             'pretty_version' => '1.1.6-p1',
             'version' => '1.1.6.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'metapackage',
-            'install_path' => null,
+            'install_path' => NULL,
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'magento/services-connector' => array(
             'pretty_version' => '1.3.5',
             'version' => '1.3.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../magento/services-connector',
             'aliases' => array(),
@@ -4510,16 +4510,16 @@
         'magento/services-id' => array(
             'pretty_version' => '3.2.5',
             'version' => '3.2.5.0',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'metapackage',
-            'install_path' => null,
+            'install_path' => NULL,
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'magento/theme-adminhtml-backend' => array(
             'pretty_version' => '100.4.7-p1',
             'version' => '100.4.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-theme',
             'install_path' => __DIR__ . '/../magento/theme-adminhtml-backend',
             'aliases' => array(),
@@ -4528,7 +4528,7 @@
         'magento/theme-frontend-blank' => array(
             'pretty_version' => '100.4.7-p1',
             'version' => '100.4.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-theme',
             'install_path' => __DIR__ . '/../magento/theme-frontend-blank',
             'aliases' => array(),
@@ -4537,7 +4537,7 @@
         'magento/theme-frontend-luma' => array(
             'pretty_version' => '100.4.7-p1',
             'version' => '100.4.7.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-theme',
             'install_path' => __DIR__ . '/../magento/theme-frontend-luma',
             'aliases' => array(),
@@ -4690,16 +4690,16 @@
         'paypal/module-braintree' => array(
             'pretty_version' => '4.6.1-p1',
             'version' => '4.6.1.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'metapackage',
-            'install_path' => null,
+            'install_path' => NULL,
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'paypal/module-braintree-core' => array(
             'pretty_version' => '4.6.1-p1',
             'version' => '4.6.1.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../paypal/module-braintree-core',
             'aliases' => array(),
@@ -4708,7 +4708,7 @@
         'paypal/module-braintree-customer-balance' => array(
             'pretty_version' => '4.6.1-p1',
             'version' => '4.6.1.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../paypal/module-braintree-customer-balance',
             'aliases' => array(),
@@ -4717,7 +4717,7 @@
         'paypal/module-braintree-gift-card-account' => array(
             'pretty_version' => '4.6.1-p1',
             'version' => '4.6.1.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../paypal/module-braintree-gift-card-account',
             'aliases' => array(),
@@ -4726,7 +4726,7 @@
         'paypal/module-braintree-gift-wrapping' => array(
             'pretty_version' => '4.6.1-p1',
             'version' => '4.6.1.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../paypal/module-braintree-gift-wrapping',
             'aliases' => array(),
@@ -4735,7 +4735,7 @@
         'paypal/module-braintree-graph-ql' => array(
             'pretty_version' => '4.6.1-p1',
             'version' => '4.6.1.0-patch1',
-            'reference' => null,
+            'reference' => NULL,
             'type' => 'magento2-module',
             'install_path' => __DIR__ . '/../paypal/module-braintree-graph-ql',
             'aliases' => array(),
